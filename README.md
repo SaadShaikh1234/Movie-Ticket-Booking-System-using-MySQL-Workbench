@@ -1,2 +1,2 @@
 # Movie-Ticket-Booking-System-using-MySQL-Workbench
-This SQL-based Movie Ticket Booking System manages movie schedules, bookings, and theater operations across six key tables. It showcases practical database management in the entertainment industry.
+The Movie Ticket Booking System is a database designed to manage movie schedules, customer bookings, and theater operations efficiently. It comprises six key tables—Movies, Theaters, Screens, Showtimes, Customers, and Bookings—to model the relationships between entities. This project demonstrates essential SQL concepts such as data organization, relationships, and advanced queries. It provides a practical approach to understanding database management in real-world scenarios, particularly in the entertainment industry.
